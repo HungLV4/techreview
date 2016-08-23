@@ -1,0 +1,9 @@
+X-Xss-Protection: 1; mode=block
+Request-Id: 571d9688_ee6c6e5dcdb84b58c5a4f45f14d418e
+X-Aol-Hn: i-6dbbb2aa
+Vary: Accept-Encoding
+Server: Apache/2.4.6 (CentOS)
+Location: /reviews/tablets/
+Cache-Control: no-cache, must-revalidate, post-check=0, pre-check=0
+Date: Mon, 25 Apr 2016 04:01:12 GMT
+Content-Type: text/html; charset=UTF-8

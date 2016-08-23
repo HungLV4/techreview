@@ -1,0 +1,16 @@
+setup.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt
+techreview/__init__.py
+techreview/items.py
+techreview/middlewares.py
+techreview/pipelines.py
+techreview/settings.py
+techreview/spiders/EngadgetSpider.py
+techreview/spiders/FreelancerSpider.py
+techreview/spiders/GsmArenaSpider.py
+techreview/spiders/PhoneArenaSpider.py
+techreview/spiders/__init__.py

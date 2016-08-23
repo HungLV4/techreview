@@ -1,0 +1,10 @@
+X-Xss-Protection: 1; mode=block
+Set-Cookie: gdgt_edition=vnm; expires=Tue, 25-Apr-2017 04:01:16 GMT; Max-Age=31536000; path=/; domain=.engadget.com; httponly
+Content-Encoding: gzip
+Request-Id: 571d968c_c76fd6b807d8c435de3f186b0a93035
+X-Aol-Hn: i-4fd6f397
+Vary: Accept-Encoding
+Server: Apache/2.4.6 (CentOS)
+Cache-Control: no-cache, must-revalidate, post-check=0, pre-check=0
+Date: Mon, 25 Apr 2016 04:01:16 GMT
+Content-Type: text/html; charset=UTF-8
